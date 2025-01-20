@@ -11,6 +11,7 @@ import { bgImage } from "@/lib/bg-image";
 export default function PropertiesPage() {
   return (
     <div className="relative min-h-screen text-gray-100">
+      {/* Added background picture */}
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{

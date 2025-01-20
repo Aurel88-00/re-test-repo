@@ -1,3 +1,4 @@
+{/* Background picture config*/}
 export const bgImage = {
   opacity: 0.4,
   image:
